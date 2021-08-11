@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DocsMath
+- 👋 Hi, I’m @MathStuani
 - 👀 I’m interested in Game Design, Art and Visual Development;
 - 🌱 I’m currently learning Concept Art (self taught) and Game Desing on my Uni;
 - 💞️ I’m looking to collaborate on small projects related to games, and learn/grow up with the team;
